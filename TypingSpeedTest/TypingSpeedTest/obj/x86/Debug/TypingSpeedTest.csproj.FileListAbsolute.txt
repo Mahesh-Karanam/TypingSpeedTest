@@ -1,0 +1,8 @@
+c:\users\exam\documents\visual studio 2010\Projects\TypingSpeedTest\TypingSpeedTest\obj\x86\Debug\TypingSpeedTest.Form1.resources
+c:\users\exam\documents\visual studio 2010\Projects\TypingSpeedTest\TypingSpeedTest\obj\x86\Debug\TypingSpeedTest.Properties.Resources.resources
+c:\users\exam\documents\visual studio 2010\Projects\TypingSpeedTest\TypingSpeedTest\obj\x86\Debug\TypingSpeedTest.csproj.GenerateResource.Cache
+c:\users\exam\documents\visual studio 2010\Projects\TypingSpeedTest\TypingSpeedTest\bin\Debug\TypingSpeedTest.exe
+c:\users\exam\documents\visual studio 2010\Projects\TypingSpeedTest\TypingSpeedTest\bin\Debug\TypingSpeedTest.pdb
+c:\users\exam\documents\visual studio 2010\Projects\TypingSpeedTest\TypingSpeedTest\obj\x86\Debug\TypingSpeedTest.exe
+c:\users\exam\documents\visual studio 2010\Projects\TypingSpeedTest\TypingSpeedTest\obj\x86\Debug\TypingSpeedTest.pdb
+C:\Users\exam\documents\visual studio 2010\Projects\TypingSpeedTest\TypingSpeedTest\obj\x86\Debug\TypingSpeedTest.csprojResolveAssemblyReference.cache
